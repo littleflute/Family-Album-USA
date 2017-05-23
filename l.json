@@ -1,8 +1,8 @@
 {
     "songData": [
         {
-            "albumName": "Elton John",
-            "albumCoverMax": "https://littleflute.github.io/Elton-John/Elton John/Elton John [Bonus Tracks]/AlbumArt_{39FE12D6-5F10-4312-98D0-75336653E345}_Large.jpg",
+            "albumName": "F.A.USA Unit 01",
+            "albumCoverMax": "https://littleflute.github.io/index.jpg",
             "albumSong": [
                 {
                     "musicName": "u0101",
@@ -10,71 +10,71 @@
                     "musicLink": "https://littleflute.github.io/Family-Album-USA/files/u0101.mp3",
                     "lyricsLink": "https://littleflute.github.io/Family-Album-USA/files/u0101.lrc",
                     "musicTime": "01:12",
-                    "albumCoverMin": "https://littleflute.github.io/Elton-John/Elton John/Elton John [Bonus Tracks]/AlbumArtSmall.jpg"
+                    "albumCoverMin": "https://littleflute.github.io/i.jpg"
                 },
                 {
-                    "musicName": "I Need You to Turn To",
-                    "musicSinger": "Elton John",
-                    "musicLink": "https://littleflute.github.io/Elton-John/Elton John/Elton John [Bonus Tracks]/02 I Need You to Turn To.mp3",
-                    "lyricsLink": "https://littleflute.github.io/Elton-John/Elton John/Elton John [Bonus Tracks]/01.lrc",
-                    "musicTime": "04:47",
-                    "albumCoverMin": "https://littleflute.github.io/Elton-John/Elton John/Elton John [Bonus Tracks]/AlbumArtSmall.jpg"
+                    "musicName": "u0102",
+                    "musicSinger": "F.A.USA",
+                    "musicLink": "https://littleflute.github.io/Family-Album-USA/files/u0102.mp3",
+                    "lyricsLink": "https://littleflute.github.io/Family-Album-USA/files/u0102.lrc",
+                    "musicTime": "01:12",
+                    "albumCoverMin": "https://littleflute.github.io/i.jpg"
                 },
                 {
-                    "musicName": "03 Heat Wave.mp3",
-                    "musicSinger": "03Test",
-                    "musicLink": "03 Heat Wave.mp3",
-                    "lyricsLink": "lyrics/03.lrc",
-                    "musicTime": "07:49",
-                    "albumCoverMin": "https://littleflute.github.io/Elton-John/Elton John/Elton John [Bonus Tracks]/AlbumArtSmall.jpg"
+                    "musicName": "u0103",
+                    "musicSinger": "F.A.USA",
+                    "musicLink": "https://littleflute.github.io/Family-Album-USA/files/u0103.mp3",
+                    "lyricsLink": "https://littleflute.github.io/Family-Album-USA/files/u0103.lrc",
+                    "musicTime": "01:12",
+                    "albumCoverMin": "https://littleflute.github.io/i.jpg"
                 },
                 {
-                    "musicName": "04 Hello Stranger.mp3)",
-                    "musicSinger": "4",
-                    "musicLink": "04 Hello Stranger.mp3",
-                    "lyricsLink": "lyrics/04.lrc",
-                    "musicTime": "05:14",
-                    "albumCoverMin": "albumCover/min/hcsmlive.png"
+                    "musicName": "u0104",
+                    "musicSinger": "F.A.USA",
+                    "musicLink": "https://littleflute.github.io/Family-Album-USA/files/u0104.mp3",
+                    "lyricsLink": "https://littleflute.github.io/Family-Album-USA/files/u0104.lrc",
+                    "musicTime": "01:12",
+                    "albumCoverMin": "https://littleflute.github.io/i.jpg"
                 },
                 {
-                    "musicName": "05 It's All Right.mp3)",
-                    "musicSinger": "5",
-                    "musicLink": "05 It's All Right.mp3",
-                    "lyricsLink": "lyrics/05.lrc",
-                    "musicTime": "05:14",
-                    "albumCoverMin": "albumCover/min/hcsmlive.png"
+                    "musicName": "u0105",
+                    "musicSinger": "F.A.USA",
+                    "musicLink": "https://littleflute.github.io/Family-Album-USA/files/u0105.mp3",
+                    "lyricsLink": "https://littleflute.github.io/Family-Album-USA/files/u0105.lrc",
+                    "musicTime": "01:12",
+                    "albumCoverMin": "https://littleflute.github.io/i.jpg"
                 },
                 {
-                    "musicName": "06 Our Day Will Come.mp3)",
-                    "musicSinger": "6",
-                    "musicLink": "06 Our Day Will Come.mp3",
-                    "lyricsLink": "lyrics/06.lrc",
-                    "musicTime": "05:14",
-                    "albumCoverMin": "albumCover/min/hcsmlive.png"
+                    "musicName": "u0106",
+                    "musicSinger": "F.A.USA",
+                    "musicLink": "https://littleflute.github.io/Family-Album-USA/files/u0106.mp3",
+                    "lyricsLink": "https://littleflute.github.io/Family-Album-USA/files/u0106.lrc",
+                    "musicTime": "01:12",
+                    "albumCoverMin": "https://littleflute.github.io/i.jpg"
                 },
                 {
-                    "musicName": "07 Mockingbird.mp3)",
-                    "musicSinger": "6",
-                    "musicLink": "07 Mockingbird.mp3",
-                    "lyricsLink": "lyrics/07.lrc",
-                    "musicTime": "05:14",
-                    "albumCoverMin": "albumCover/min/hcsmlive.png"
+                    "musicName": "u0107",
+                    "musicSinger": "F.A.USA",
+                    "musicLink": "https://littleflute.github.io/Family-Album-USA/files/u0107.mp3",
+                    "lyricsLink": "https://littleflute.github.io/Family-Album-USA/files/u0107.lrc",
+                    "musicTime": "01:12",
+                    "albumCoverMin": "https://littleflute.github.io/i.jpg"
                 },
                 {
-                    "musicName": "08 Pride And Joy.mp3)",
-                    "musicSinger": "8",
-                    "musicLink": "08 Pride And Joy.mp3",
-                    "lyricsLink": "lyrics/08.lrc",
-                    "musicTime": "05:14",
-                    "albumCoverMin": "albumCover/min/hcsmlive.png"
+                    "musicName": "u0108",
+                    "musicSinger": "F.A.USA",
+                    "musicLink": "https://littleflute.github.io/Family-Album-USA/files/u0108.mp3",
+                    "lyricsLink": "https://littleflute.github.io/Family-Album-USA/files/u0108.lrc",
+                    "musicTime": "01:12",
+                    "albumCoverMin": "https://littleflute.github.io/i.jpg"
                 },
                 {
-                    "musicName": "09 You've Really Got A Hold On Me.mp3)",
-                    "musicSinger": "9",
-                    "musicLink": "09 You've Really Got A Hold On Me.mp3",
-                    "lyricsLink": "lyrics/09.lrc",
-                    "musicTime": "05:14",
-                    "albumCoverMin": "albumCover/min/hcsmlive.png"
+                    "musicName": "u0109",
+                    "musicSinger": "F.A.USA",
+                    "musicLink": "https://littleflute.github.io/Family-Album-USA/files/u0109.mp3",
+                    "lyricsLink": "https://littleflute.github.io/Family-Album-USA/files/u0109.lrc",
+                    "musicTime": "01:12",
+                    "albumCoverMin": "https://littleflute.github.io/i.jpg"
                 },
                 {
                     "musicName": "10 Cry Baby.mp3)",

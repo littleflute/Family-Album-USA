@@ -1,0 +1,173 @@
+{
+    "songData": [
+        {
+            "albumName": "Elton John",
+            "albumCoverMax": "https://littleflute.github.io/Elton-John/Elton John/Elton John [Bonus Tracks]/AlbumArt_{39FE12D6-5F10-4312-98D0-75336653E345}_Large.jpg",
+            "albumSong": [
+                {
+                    "musicName": "Your Song",
+                    "musicSinger": "Elton John",
+                    "musicLink": "https://littleflute.github.io/Elton-John/Elton John/Elton John [Bonus Tracks]/01 Your Song.mp3",
+                    "lyricsLink": "https://littleflute.github.io/Elton-John/Elton John/Elton John [Bonus Tracks]/01.lrc",
+                    "musicTime": "01:12",
+                    "albumCoverMin": "https://littleflute.github.io/Elton-John/Elton John/Elton John [Bonus Tracks]/AlbumArtSmall.jpg"
+                },
+                {
+                    "musicName": "I Need You to Turn To",
+                    "musicSinger": "Elton John",
+                    "musicLink": "https://littleflute.github.io/Elton-John/Elton John/Elton John [Bonus Tracks]/02 I Need You to Turn To.mp3",
+                    "lyricsLink": "https://littleflute.github.io/Elton-John/Elton John/Elton John [Bonus Tracks]/01.lrc",
+                    "musicTime": "04:47",
+                    "albumCoverMin": "https://littleflute.github.io/Elton-John/Elton John/Elton John [Bonus Tracks]/AlbumArtSmall.jpg"
+                },
+                {
+                    "musicName": "03 Heat Wave.mp3",
+                    "musicSinger": "03Test",
+                    "musicLink": "03 Heat Wave.mp3",
+                    "lyricsLink": "lyrics/03.lrc",
+                    "musicTime": "07:49",
+                    "albumCoverMin": "https://littleflute.github.io/Elton-John/Elton John/Elton John [Bonus Tracks]/AlbumArtSmall.jpg"
+                },
+                {
+                    "musicName": "04 Hello Stranger.mp3)",
+                    "musicSinger": "4",
+                    "musicLink": "04 Hello Stranger.mp3",
+                    "lyricsLink": "lyrics/04.lrc",
+                    "musicTime": "05:14",
+                    "albumCoverMin": "albumCover/min/hcsmlive.png"
+                },
+                {
+                    "musicName": "05 It's All Right.mp3)",
+                    "musicSinger": "5",
+                    "musicLink": "05 It's All Right.mp3",
+                    "lyricsLink": "lyrics/05.lrc",
+                    "musicTime": "05:14",
+                    "albumCoverMin": "albumCover/min/hcsmlive.png"
+                },
+                {
+                    "musicName": "06 Our Day Will Come.mp3)",
+                    "musicSinger": "6",
+                    "musicLink": "06 Our Day Will Come.mp3",
+                    "lyricsLink": "lyrics/06.lrc",
+                    "musicTime": "05:14",
+                    "albumCoverMin": "albumCover/min/hcsmlive.png"
+                },
+                {
+                    "musicName": "07 Mockingbird.mp3)",
+                    "musicSinger": "6",
+                    "musicLink": "07 Mockingbird.mp3",
+                    "lyricsLink": "lyrics/07.lrc",
+                    "musicTime": "05:14",
+                    "albumCoverMin": "albumCover/min/hcsmlive.png"
+                },
+                {
+                    "musicName": "08 Pride And Joy.mp3)",
+                    "musicSinger": "8",
+                    "musicLink": "08 Pride And Joy.mp3",
+                    "lyricsLink": "lyrics/08.lrc",
+                    "musicTime": "05:14",
+                    "albumCoverMin": "albumCover/min/hcsmlive.png"
+                },
+                {
+                    "musicName": "09 You've Really Got A Hold On Me.mp3)",
+                    "musicSinger": "9",
+                    "musicLink": "09 You've Really Got A Hold On Me.mp3",
+                    "lyricsLink": "lyrics/09.lrc",
+                    "musicTime": "05:14",
+                    "albumCoverMin": "albumCover/min/hcsmlive.png"
+                },
+                {
+                    "musicName": "10 Cry Baby.mp3)",
+                    "musicSinger": "10",
+                    "musicLink": "10 Cry Baby.mp3",
+                    "lyricsLink": "lyrics/10.lrc",
+                    "musicTime": "05:14",
+                    "albumCoverMin": "albumCover/min/hcsmlive.png"
+                }
+            ]
+        },
+        {
+            "albumName": "Glass Cloud",
+            "albumCoverMax": "albumCover/max/Maria.jpg",
+            "albumSong": [
+                {
+                    "musicName": "梦见铁达尼",
+                    "musicSinger": "张惠妹",
+                    "musicLink": "music/mjtdn.ogg",
+                    "lyricsLink": "lyrics/mjtdn.lrc",
+                    "musicTime": "04:36",
+                    "albumCoverMin": "albumCover/min/Maria.jpg"
+                },
+                {
+                    "musicName": "很难",
+                    "musicSinger": "张震岳",
+                    "musicLink": "music/hn.ogg",
+                    "lyricsLink": "lyrics/hn.lrc",
+                    "musicTime": "04:18",
+                    "albumCoverMin": "albumCover/min/Maria.jpg"
+                }
+            ]
+        },
+        {
+            "albumName": "Pearl Harbor",
+            "albumCoverMax": "albumCover/max/zzg.jpg",
+            "albumSong": [
+                {
+                    "musicName": "There You'll Be",
+                    "musicSinger": "Faith Hill",
+                    "musicLink": "music/There_You'll_Be.ogg",
+                    "lyricsLink": "",
+                    "musicTime": "03:41",
+                    "albumCoverMin": "albumCover/min/zzg.jpg"
+                },
+                {
+                    "musicName": "Tennessee",
+                    "musicSinger": "Faith Hill",
+                    "musicLink": "music/tennessee.ogg",
+                    "lyricsLink": "",
+                    "musicTime": "03:40",
+                    "albumCoverMin": "albumCover/min/zzg.jpg"
+                },
+                {
+                    "musicName": "Brothers",
+                    "musicSinger": "Faith Hill",
+                    "musicLink": "music/Brothers.ogg",
+                    "lyricsLink": "",
+                    "musicTime": "04:04",
+                    "albumCoverMin": "albumCover/min/zzg.jpg"
+                },
+                {
+                    "musicName": "And Then I Kissed Him",
+                    "musicSinger": "Faith Hill",
+                    "musicLink": "music/And_Then_I_Kissed_Him.ogg",
+                    "lyricsLink": "",
+                    "musicTime": "05:36",
+                    "albumCoverMin": "albumCover/min/zzg.jpg"
+                }
+            ]
+        },
+        {
+            "albumName": "Missy Higgins",
+            "albumCoverMax": "albumCover/max/Vincent.jpg",
+            "albumSong": [
+                {
+                    "musicName": "Maria",
+                    "musicSinger": "Faith Hill",
+                    "musicLink": "music/Maria.ogg",
+                    "lyricsLink": "",
+                    "musicTime": "02:06",
+                    "albumCoverMin": "albumCover/min/Vincent.jpg"
+                },
+                {
+                    "musicName": "Vincent",
+                    "musicSinger": "roberto vecchioni",
+                    "musicLink": "music/Vincent.ogg",
+                    "lyricsLink": "",
+                    "musicTime": "03:07",
+                    "albumCoverMin": "albumCover/min/Vincent.jpg"
+                }
+            ]
+        }
+    ],
+    "songNum": 13
+}

@@ -5,10 +5,10 @@
             "albumCoverMax": "https://littleflute.github.io/Elton-John/Elton John/Elton John [Bonus Tracks]/AlbumArt_{39FE12D6-5F10-4312-98D0-75336653E345}_Large.jpg",
             "albumSong": [
                 {
-                    "musicName": "Your Song",
-                    "musicSinger": "Elton John",
-                    "musicLink": "https://littleflute.github.io/Elton-John/Elton John/Elton John [Bonus Tracks]/01 Your Song.mp3",
-                    "lyricsLink": "https://littleflute.github.io/Elton-John/Elton John/Elton John [Bonus Tracks]/01.lrc",
+                    "musicName": "u0101",
+                    "musicSinger": "F.A.USA",
+                    "musicLink": "https://littleflute.github.io/Family-Album-USA/files/u0101.mp3",
+                    "lyricsLink": "https://littleflute.github.io/Family-Album-USA/files/u0101.lrc",
                     "musicTime": "01:12",
                     "albumCoverMin": "https://littleflute.github.io/Elton-John/Elton John/Elton John [Bonus Tracks]/AlbumArtSmall.jpg"
                 },

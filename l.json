@@ -1,8 +1,8 @@
 {
     "songData": [
         {
-            "albumName": "F.A.USA Unit 01",
-            "albumCoverMax": "https://littleflute.github.io/index.jpg",
+            "albumName": "F.A.USA 01",
+            "albumCoverMax": "https://littleflute.github.io/Family-Album-USA/index.jpg",
             "albumSong": [
                 {
                     "musicName": "u0101",
@@ -10,7 +10,7 @@
                     "musicLink": "https://littleflute.github.io/Family-Album-USA/files/u0101.mp3",
                     "lyricsLink": "https://littleflute.github.io/Family-Album-USA/files/u0101.lrc",
                     "musicTime": "01:12",
-                    "albumCoverMin": "https://littleflute.github.io/i.jpg"
+                    "albumCoverMin": "https://littleflute.github.io/Family-Album-USA/i.jpg"
                 },
                 {
                     "musicName": "u0102",
@@ -18,15 +18,15 @@
                     "musicLink": "https://littleflute.github.io/Family-Album-USA/files/u0102.mp3",
                     "lyricsLink": "https://littleflute.github.io/Family-Album-USA/files/u0102.lrc",
                     "musicTime": "01:12",
-                    "albumCoverMin": "https://littleflute.github.io/i.jpg"
+                    "albumCoverMin": "https://littleflute.github.io/Family-Album-USA/i.jpg"
                 },
                 {
-                    "musicName": "u0103",
+                    "musicName": "u0201",
                     "musicSinger": "F.A.USA",
-                    "musicLink": "https://littleflute.github.io/Family-Album-USA/files/u0103.mp3",
-                    "lyricsLink": "https://littleflute.github.io/Family-Album-USA/files/u0103.lrc",
+                    "musicLink": "https://littleflute.github.io/Family-Album-USA/files/u0201.mp3",
+                    "lyricsLink": "https://littleflute.github.io/Family-Album-USA/files/u0201.lrc",
                     "musicTime": "01:12",
-                    "albumCoverMin": "https://littleflute.github.io/i.jpg"
+                    "albumCoverMin": "https://littleflute.github.io/Family-Album-USA/i.jpg"
                 },
                 {
                     "musicName": "u0104",
